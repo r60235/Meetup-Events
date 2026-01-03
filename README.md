@@ -6,8 +6,7 @@ A modern React-based meetup events platform where users can discover, browse, an
 
 ## Demo Link
 
-[Live Demo](
-meetup-frontend-peach.vercel.app )
+[Live Demo](meetup-frontend-peach.vercel.app ](https://meetup-frontend-peach.vercel.app)
 
 ---
 
