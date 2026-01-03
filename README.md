@@ -145,5 +145,5 @@ For local development, ensure the backend service is running or update the API e
 ## Contact
 
 For bugs, feature requests, or questions, please reach out to:
-- Email: developer@meetupevents.com
+- Email: rishaabh105@gmail.com
 
